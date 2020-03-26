@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 ﻿lasdlak
 Oq será q vai acontecer?
+=======
+﻿Eai, key
+>>>>>>> f5a698edb349984a31796329179314a2ac9d7e06
