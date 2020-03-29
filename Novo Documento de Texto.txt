@@ -1,6 +1,15 @@
-<<<<<<< HEAD
-﻿lasdlak
-Oq será q vai acontecer?
-=======
-﻿Eai, key
->>>>>>> f5a698edb349984a31796329179314a2ac9d7e06
+﻿A
+B
+C
+D
+E
+F
+1
+2
+3
+4
+5
+6
+7
+8
+9
