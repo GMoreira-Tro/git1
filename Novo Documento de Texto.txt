@@ -1,5 +1,6 @@
-﻿<<<<<<< HEAD
-﻿A
+﻿1. Ponto inicial
+
+A
 B
 C
 D
