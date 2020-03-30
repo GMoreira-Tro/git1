@@ -2,4 +2,8 @@ xesquer
 =======
 bb-almskdmalk
 
+<<<<<<< HEAD
+qlqr coisa aqui
+=======
 ------
+>>>>>>> master
