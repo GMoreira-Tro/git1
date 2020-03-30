@@ -1,9 +1,1 @@
-xesquer
-=======
-bb-almskdmalk
-
-<<<<<<< HEAD
-qlqr coisa aqui
-=======
-------
->>>>>>> master
+Agora n tem mais nada grr
