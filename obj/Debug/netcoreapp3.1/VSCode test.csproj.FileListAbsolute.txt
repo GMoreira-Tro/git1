@@ -1,0 +1,11 @@
+C:\Users\RyuzakiTro\Documents\VSCode test\obj\Debug\netcoreapp3.1\VSCode test.csprojAssemblyReference.cache
+C:\Users\RyuzakiTro\Documents\VSCode test\obj\Debug\netcoreapp3.1\VSCode test.AssemblyInfoInputs.cache
+C:\Users\RyuzakiTro\Documents\VSCode test\obj\Debug\netcoreapp3.1\VSCode test.AssemblyInfo.cs
+C:\Users\RyuzakiTro\Documents\VSCode test\bin\Debug\netcoreapp3.1\VSCode test.exe
+C:\Users\RyuzakiTro\Documents\VSCode test\bin\Debug\netcoreapp3.1\VSCode test.deps.json
+C:\Users\RyuzakiTro\Documents\VSCode test\bin\Debug\netcoreapp3.1\VSCode test.runtimeconfig.json
+C:\Users\RyuzakiTro\Documents\VSCode test\bin\Debug\netcoreapp3.1\VSCode test.runtimeconfig.dev.json
+C:\Users\RyuzakiTro\Documents\VSCode test\bin\Debug\netcoreapp3.1\VSCode test.dll
+C:\Users\RyuzakiTro\Documents\VSCode test\bin\Debug\netcoreapp3.1\VSCode test.pdb
+C:\Users\RyuzakiTro\Documents\VSCode test\obj\Debug\netcoreapp3.1\VSCode test.dll
+C:\Users\RyuzakiTro\Documents\VSCode test\obj\Debug\netcoreapp3.1\VSCode test.pdb
