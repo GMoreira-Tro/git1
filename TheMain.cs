@@ -36,17 +36,26 @@ namespace VSCode_test {
             System.Console.WriteLine("\nIEnumerator");
             MyEnumerable<Something> myEnumerableList = new MyEnumerable<Something>();
             myEnumerableList.list.AddRange(obj);
+            myEnumerableList.list.Sort();
 
             System.Console.WriteLine("\nForeach");
             foreach (var item in myEnumerableList)
             {
                 System.Console.WriteLine(item);
             }
-            
+            myEnumerableList.list.Sort(
+                delegate(Something p1, Something p2) {
+                    int compareDate = p1.someNumber.CompareTo(p2.someNumber);
+                    if (compareDate == 0) {
+                        compareDate = p1.someText.CompareTo(p2.someText);
+                    }
+                    return compareDate;
+                }
+            );
             System.Console.WriteLine("\nFor");
             for (int i = 0; i < myEnumerableList.list.Count; i++)
             {
-                System.Console.WriteLine(myEnumerableList[i]);
+                System.Console.WriteLine(myEnumerableList[i] + "\n");
             }
         }
 
