@@ -1,29 +1,60 @@
-#remove unity metadata files
-#removed due to missing prefabs when versioning
-#*.meta
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
 
+# External tool builders
+.externalToolBuilders/
 
-#remove csharp unity project files
-obj/
-*.csproj
-*.sln
-*.vscode
+# Locally stored "Eclipse launch configurations"
+*.launch
 
-#remove version control backup files
-*.orig
+# PyDev specific (Python IDE for Eclipse)
+*.pydevproject
 
-#remove unity project folders
+# CDT-specific (C/C++ Development Tooling)
+.cproject
 
-.vs/
-Library/
-#ProjectSettings/
-Runtimes/
-Temp/
-Builds/
-Temp.meta
+# CDT- autotools
+.autotools
 
-ProjectSettings/ProjectVersion.txt
-Assets/UnityVS/
-*.htm
-Assets/UnityVS.meta
-cia3s-caivr-main.userprefs
+# Java annotation processor (APT)
+.factorypath
+
+# PDT-specific (PHP Development Tools)
+.buildpath
+
+# sbteclipse plugin
+.target
+
+# Tern plugin
+.tern-project
+
+# TeXlipse plugin
+.texlipse
+
+# STS (Spring Tool Suite)
+.springBeans
+
+# Code Recommenders
+.recommenders/
+
+# Annotation Processing
+.apt_generated/
+.apt_generated_test/
+
+# Scala IDE specific (Scala & Java development for Eclipse)
+.cache-main
+.scala_dependencies
+.worksheet
+
+# Uncomment this line if you wish to ignore the project description file.
+# Typically, this file would be tracked if it contains build/dependency configurations:
+#.project
