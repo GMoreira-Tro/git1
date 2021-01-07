@@ -36,7 +36,9 @@ namespace VSCode_test {
             System.Console.WriteLine("\nIEnumerator");
             MyEnumerable<Something> myEnumerableList = new MyEnumerable<Something>();
             myEnumerableList.list.AddRange(obj);
-            myEnumerableList.list.Sort();
+            myEnumerableList.list.Sort( delegate(Something p1, Something p2) {
+                return p2.CompareTo(p1);
+            });
 
             System.Console.WriteLine("\nForeach");
             foreach (var item in myEnumerableList)
